@@ -1,4 +1,4 @@
 # Natural-Language-Processing
 
-Sample work of NLP Class HW
-* HW2 : Topic Modelling using LDA
+Sample work of NLP Class Assignment
+* HW 2 : Topic Modelling using LDA
